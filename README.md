@@ -9,8 +9,13 @@ Laravel 5.7
 [![Video](https://img.youtube.com/vi/t_4e04CQ4mY/hqdefault.jpg)](https://www.youtube.com/watch?v=t_4e04CQ4mY)
 
 
+<h3>Slider Demo </h3>
+<a href="https://codepen.io/justinxcoder/pen/abbELNg">Codepen</a>
 
+<h3>Post Box Demo </h3>
+<a href="https://codepen.io/justinxcoder/pen/LYYezvb">Codepen</a>
 
+<br />
 <img src="https://github.com/k4m4/donations/blob/master/images/badge.svg"/>
 
 
