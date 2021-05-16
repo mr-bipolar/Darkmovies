@@ -8,6 +8,10 @@ Laravel 5.7
 
 [![Video](https://img.youtube.com/vi/t_4e04CQ4mY/hqdefault.jpg)](https://www.youtube.com/watch?v=t_4e04CQ4mY)
 
+<br />
+
+<h3>blogger theme</h3>
+<a href="https://github.com/Mr-silentcoder/DarkMusic">Dark Music </a>
 
 <h3>Slider Demo </h3>
 <a href="https://codepen.io/justinxcoder/pen/abbELNg">Codepen</a>
