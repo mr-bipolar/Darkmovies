@@ -14,12 +14,13 @@ Laravel 5.7
 <a href="https://github.com/Mr-silentcoder/DarkMusic">Dark Music </a>
 
 <h3>Slider Demo </h3>
-<a href="https://codepen.io/justinxcoder/pen/abbELNg">Codepen</a>
+<a href="https://codepen.io/aaron-cruz/pen/abbELNg">Codepen</a>
 
 <h3>Post Box Demo </h3>
-<a href="https://codepen.io/justinxcoder/pen/LYYezvb">Codepen</a>
+<a href="https://codepen.io/aaron-cruz/pen/LYYezvb">Codepen</a>
 
 <br />
+<br>
 <img src="https://github.com/k4m4/donations/blob/master/images/badge.svg"/>
 
 
